@@ -89,7 +89,7 @@ async function connectToWA() {
 
       const up = `VIHANGA-MD connected ✅\n\nPREFIX: ${prefix}`;
       await vihanga.sendMessage(ownerNumber[0] + "@s.whatsapp.net", {
-        image: { url: `https://github.com/DANUWA-MD/DANUWA-MD/blob/main/images/DANUWA-MD.png?raw=true` },
+        image: { url: `https://github.com/vihangabot44/vihanga_md_bot/blob/main/images/Picsart_26-08-10_20-25-42-519.jpg?raw=true` },
         caption: up
       });
 
